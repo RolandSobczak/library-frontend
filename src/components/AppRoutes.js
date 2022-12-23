@@ -9,7 +9,7 @@ import {
 import LoginPage from "./Login/LoginPage";
 import Dashboard from "./Main/Dashboard/Dashboard";
 import Books from "./Main/Books/Books";
-import BookDetails from "./Main/BooksDetails.js/BookDetail";
+import BookDetails from "./Main/BooksDetails/BookDetail";
 
 import Authors from "./Main/Authors/Authors";
 import Categories from "./Main/Categories/Categories";
