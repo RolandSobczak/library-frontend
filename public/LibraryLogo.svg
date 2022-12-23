@@ -1,0 +1,27 @@
+<svg width="336" height="299" viewBox="0 0 336 299" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="-3" y="3" width="95" height="287" rx="17" transform="matrix(-1 0 0 1 330 0)" stroke="#3E9FE6" stroke-width="6"/>
+<line y1="-3" x2="101" y2="-3" transform="matrix(-1 0 0 1 336 255)" stroke="#3E9FE5" stroke-width="6"/>
+<line y1="-3" x2="101" y2="-3" transform="matrix(-1 0 0 1 336 239)" stroke="#3E9FE5" stroke-width="6"/>
+<line y1="-3" x2="101" y2="-3" transform="matrix(-1 0 0 1 336 62)" stroke="#3E9FE5" stroke-width="6"/>
+<line y1="-3" x2="101" y2="-3" transform="matrix(-1 0 0 1 336 46)" stroke="#3E9FE5" stroke-width="6"/>
+<rect x="262" y="170.483" width="47" height="3.13333" rx="1.56667" fill="#3E9FE5"/>
+<circle cx="286.283" cy="140.717" r="20.7167" stroke="#3E9FE5" stroke-width="4"/>
+<rect x="-2.58234" y="3.36623" width="55" height="287" rx="17" transform="matrix(-0.991429 0.130649 0.130649 0.991429 187.895 0.366232)" stroke="#3E9FE6" stroke-width="6"/>
+<line y1="-3" x2="61" y2="-3" transform="matrix(-0.991429 0.130649 0.130649 0.991429 226.793 252.814)" stroke="#3E9FE5" stroke-width="6"/>
+<line y1="-3" x2="61" y2="-3" transform="matrix(-0.991429 0.130649 0.130649 0.991429 224.702 236.951)" stroke="#3E9FE5" stroke-width="6"/>
+<line y1="-3" x2="61" y2="-3" transform="matrix(-0.991429 0.130649 0.130649 0.991429 201.577 61.4686)" stroke="#3E9FE5" stroke-width="6"/>
+<line y1="-3" x2="61" y2="-3" transform="matrix(-0.991429 0.130649 0.130649 0.991429 199.487 45.6057)" stroke="#3E9FE5" stroke-width="6"/>
+<path d="M171.07 90.2006C170.817 88.2842 172.166 86.5259 174.082 86.2734V86.2734C175.999 86.0208 177.757 87.3697 178.01 89.2861L193.687 208.258C193.94 210.174 192.591 211.932 190.675 212.185V212.185C188.758 212.437 187 211.089 186.747 209.172L171.07 90.2006Z" fill="#3E9FE5"/>
+<rect x="-3" y="3" width="55" height="287" rx="17" transform="matrix(-1 0 0 1 123 0)" stroke="#3E9FE6" stroke-width="6"/>
+<line y1="-3" x2="61" y2="-3" transform="matrix(-1 0 0 1 129 255)" stroke="#3E9FE5" stroke-width="6"/>
+<line y1="-3" x2="61" y2="-3" transform="matrix(-1 0 0 1 129 239)" stroke="#3E9FE5" stroke-width="6"/>
+<line y1="-3" x2="61" y2="-3" transform="matrix(-1 0 0 1 129 62)" stroke="#3E9FE5" stroke-width="6"/>
+<line y1="-3" x2="61" y2="-3" transform="matrix(-1 0 0 1 129 46)" stroke="#3E9FE5" stroke-width="6"/>
+<path d="M95 86.5C95 84.567 96.567 83 98.5 83V83C100.433 83 102 84.567 102 86.5V206.5C102 208.433 100.433 210 98.5 210V210C96.567 210 95 208.433 95 206.5V86.5Z" fill="#3E9FE5"/>
+<rect x="-3" y="3" width="55" height="287" rx="17" transform="matrix(-1 0 0 1 55 3)" stroke="#3E9FE6" stroke-width="6"/>
+<line y1="-3" x2="61" y2="-3" transform="matrix(-1 0 0 1 61 258)" stroke="#3E9FE5" stroke-width="6"/>
+<line y1="-3" x2="61" y2="-3" transform="matrix(-1 0 0 1 61 242)" stroke="#3E9FE5" stroke-width="6"/>
+<line y1="-3" x2="61" y2="-3" transform="matrix(-1 0 0 1 61 65)" stroke="#3E9FE5" stroke-width="6"/>
+<line y1="-3" x2="61" y2="-3" transform="matrix(-1 0 0 1 61 49)" stroke="#3E9FE5" stroke-width="6"/>
+<path d="M27 89.5C27 87.567 28.567 86 30.5 86V86C32.433 86 34 87.567 34 89.5V209.5C34 211.433 32.433 213 30.5 213V213C28.567 213 27 211.433 27 209.5V89.5Z" fill="#3E9FE5"/>
+</svg>
