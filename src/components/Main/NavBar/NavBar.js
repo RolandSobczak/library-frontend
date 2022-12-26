@@ -10,10 +10,12 @@ import { AppContext } from "../../AppProvider";
 import { Button } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
 import ProfileLink from "./ProfileLink";
+import SearchModal from "./SearchModal/SearchModal";
 
 const NavBar = () => {
   const navigate = useNavigate();
   const { user } = useContext(AppContext);
+  const [showModal, setShowModal] = useState(false);
 
   return (
     <nav className="main-nav">
@@ -57,6 +59,9 @@ const NavBar = () => {
                 className="form-control"
                 placeholder="Search..."
                 aria-label="Search"
+                onClick={() => setShowModal(true)}
+                readOnly
+                onFocus={(e) => e.target.blur()}
               />
               {user && user.username ? (
                 <ProfileLink />
@@ -67,6 +72,7 @@ const NavBar = () => {
               )}
             </div>
           </Navbar.Collapse>
+          <SearchModal show={showModal} onHide={() => setShowModal(false)} />
         </Container>
       </Navbar>
     </nav>
